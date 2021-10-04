@@ -1,3 +1,2 @@
-*.txt
 *.html
 !logs/index.html
